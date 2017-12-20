@@ -12,10 +12,10 @@ FTP_HOST=10.6.3.10
 FTP_USER=rajz
 FTP_TARGET_DIR=/var/www/html
 
-SSH_HOST=10.6.3.10
+SSH_HOST=10.6.15.113
 SSH_PORT=22
-SSH_USER=rajz
-SSH_TARGET_DIR=/var/www/html
+SSH_USER=mrprajesh
+SSH_TARGET_DIR=/home/mrprajesh/public_html
 
 S3_BUCKET=my_s3_bucket
 
