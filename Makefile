@@ -10,12 +10,19 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=10.6.3.10
 FTP_USER=rajz
-FTP_TARGET_DIR=/var/www/html
+FTP_TARGET_DIR=/phd/rajz/public_html
 
-SSH_HOST=10.6.15.113
+
+SSH_HOST=10.6.3.10
 SSH_PORT=22
-SSH_USER=mrprajesh
-SSH_TARGET_DIR=/home/mrprajesh/public_html
+SSH_USER=rajz
+SSH_TARGET_DIR=/phd/rajz/public_html
+
+# cse mrprajesh website
+#SSH_HOST=10.6.15.111
+#SSH_PORT=22
+#SSH_USER=mrprajesh
+#SSH_TARGET_DIR=/home/mrprajesh/public_html
 
 S3_BUCKET=my_s3_bucket
 

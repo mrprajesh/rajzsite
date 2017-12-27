@@ -5,9 +5,18 @@ This is my CSE@IITM homepage content generated using pelican.
 Generate html webpage from the markdown(md) files.
 
 ```make html```
+
 Runs the server. Open http://localhost:8000/ to see the rendering.
 
 ```make serve```
+
+Once the development is done. We are ready for deploying.
+
+```
+$make publish
+$pelican content -s publishconf.py
+$make rsync_upload
+```
 
 
 # Pages
