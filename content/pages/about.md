@@ -5,10 +5,13 @@ url:
 save_as: index.html
 page-order: 1
 
+<img src="images/Rajz.jpg" alt="Picture of Rajesh" style="float:right;height: 100px;width: 100px;"/>
+
+
 My name is Rajesh Pandian M. I am from Madurai, Tamil Nadu, India. 
-I am a PhD Scholar at [Department of Computer Science & Engineering][1] @ [IIT Madras][2]. 
+I am a Ph.D. Scholar at [Department of Computer Science & Engineering][1] @ [IIT Madras][2]. 
 I belong to [Theoretical Computer Science][5] Group/Lab fondly called as TCS Lab.
-My Doctoral advisor is [Prof.N.S.Narayanaswamy][3] .
+I am really fortunate to get [Prof.N.S.Narayanaswamy][3] as my Doctoral advisor.
 
 I'll always go after the things that are impossible (to others) and passionate (to me). 
 I have completed my under graduation at Thiagarajar College of Engineering. 
@@ -26,6 +29,7 @@ Yeah! that's what I am in one line. ;-)
 
 My [PGP][4] Key ID is 0xEA64BABE. 
 If you wish to send me an encrypted email you are always welcome! :-) 
+
 
 [1]: http://www.cse.iitm.ac.in/
 [2]: http://www.iitm.ac.in/

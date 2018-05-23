@@ -1,15 +1,17 @@
 Title: Grids!
 Date: 20.12.2017 15:15:38
 Category: Learning Curve
-
-
+Status: draft
+ 
 
 ## Abstract
 The aim is to solve the NP-hard problems(in general graphs) on grids.
-Grids is smaller class graph with a nice structural property. 
+Grid is smaller class graph with a nice structural property. 
 It is a planar, bipartite and non-chordal graph. 
 A $n$ vertex grid has a treewidth $\sqrt n$. 
-A grid can be recognised in linear time.
+As we know that the grid can be recognised in linear time, what other problems
+on grid can be solved in linear time. 
+This is one of the motivation for writing this article. 
 
 #Problem statement
 * Input: Finite square grid on $m$ rows and $n$ columns.
@@ -36,7 +38,7 @@ Let the vertex set $V = \{0,1, \dots, n^2-1 \}$
 to the right bottom of the grid.
 
 ## Algorithms on grid.
-### Minimum vertex cover(MVC) and Maximum Independent Set (MIS)
+### Minimum vertex cover(MVC) Problem and Maximum Independent Set (MIS) Problem
 In bipartite graph it is well known that the size of minimum vertex cover 
 	is equal to the size of the maximum carnality matching. 
 This is the most celebrated König's theorem.
@@ -63,14 +65,21 @@ If we compute the Minimum vertex cover(MVC) say $S \subset V$
 If for each edge $e \in E$ there exactly one vertex in $S$ that covers $e$
 then, $S$ is a MVC of $G$ 
 
-**Proof** : Arguing for contrapositive statement.
-if the set $S$ is not a *minumum* vertex cover
+**Proof** : This claim says it is a minimal vertex cover.
 
+#### Size of the vertex Cover
+- The size of the vertex cover is $\lfloor \frac{mn}{2} \rfloor$
+- If $n$ and $m$ are both odd number only then the floor would come into picture.
 
-The size of the vertex cover is $\lfloor \frac{mn}{2} \rfloor$
+- _Observation_ If any one of $n$ or $m$ is an even number then the MVC and MIS is same.
+- Therefore if $n$ and $m$ are both odd, then MIS is V $\setminus S$.
 
+### Minimum Dominating Set(MDS) Problem
+The main observations 
+### Minimum Fill-in Problem
 
-### Minimum Dominating
+Claim: There exits a tree decomposition for a graph $G(V,E)$,
+such that completing the bags yeilds the minimum fill in edges. 
 
 ## Conclusion
       
