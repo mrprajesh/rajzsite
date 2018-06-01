@@ -49,7 +49,7 @@ SOCIAL = (('Github!', 'https://github.com/mrprajesh'),
 DEFAULT_PAGINATION = 10
 
 
-STATIC_PATHS = ['images', 'pdfs']
+STATIC_PATHS = ['images', 'pdfs','csvs']
 
 
 # Uncomment following line if you want document-relative URLs when developing
