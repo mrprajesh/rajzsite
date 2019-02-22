@@ -55,7 +55,7 @@ STATIC_PATHS = ['images', 'pdfs','csvs']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-#~ THEME = "notmyidea"
+THEME = "notmyidea"
 #~ THEME = '/home/rajz/install/pelican-themes/Just-Read'
 #~ THEME='/home/rajz/install/pelican-themes/pelican-bootstrap3'
 #~ THEME='/home/rajz/install/pelican-themes/built-texts'
