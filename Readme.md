@@ -1,5 +1,5 @@
 # Main Webpage
-This is my CSE@IITM homepage content generated using pelican.
+This is my CSE @ IIT Madras [homepage](http://www.cse.iitm.ac.in/~mrprajesh/) content generated using pelican. 
 
 ## Usage
 Generate html webpage from the markdown(md) files.
@@ -35,16 +35,16 @@ This has two group dynamic pages sorted in chronological order.
 - News
 
 # Some Workarounds done
-The about page is made a the index page. Using. 
+The about page is made as the index page. Using:
 ```
 url: 
 save_as: index.html
 ```
-The page order is enforced using page-order for pages
+The page order is enforced using page-order for pages.
 ```
 PAGE_ORDER_BY = 'page-order' in config file
 ```
-The plugin render math using in config file
+The plugin render math used in config file to generate LaTeX support.
 ```
 PLUGIN_PATHS = ['/home/rajz/install/pelican-plugins']
 PLUGINS = ["render_math"]
