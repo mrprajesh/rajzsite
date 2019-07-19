@@ -11,7 +11,7 @@ Data Structure needed to hold
 
 ### How to capture intervals
 
-[Our Menu]({filename}/pdfs/cfc.pdf)
+[Our Menu]({static}/pdfs/cfc.pdf)
 [Share Latex](https://www.sharelatex.com/project/5a3611bc5e0e8d53efd0162a/output/output.pdf?compileGroup=standard&clsiserverid=clsi2-36&popupDownload=true)
 
 There are three major functions:

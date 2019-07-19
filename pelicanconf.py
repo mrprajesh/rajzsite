@@ -41,10 +41,10 @@ LINKS = (
 #<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=cse.iitm.ac.in/~mrprajesh&digit=style/plain/6/&reloads=1" alt="www.reliablecounter.com" title="www.reliablecounter.com" border="0"></a><br /><a href="http://www.reliablecounter.com/ar/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"> </a>
 
 # Social widget
-SOCIAL = (('Github!', 'https://github.com/mrprajesh'),
+SOCIAL = (('Github', 'https://github.com/mrprajesh'),
 		  ('Google Profile', 'https://plus.google.com/u/0/+RajeshPandianM'),
           ('Twitter', 'https://twitter.com/mrprajesh'),
-          ('Facebook!', 'https://facebook.com/mrprajesh'),)
+          ('Facebook', 'https://facebook.com/mrprajesh'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -55,7 +55,9 @@ STATIC_PATHS = ['images', 'pdfs','csvs']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "notmyidea"
+# ~ THEME = "notmyidea"
+THEME = '/home/rajz/install/pelican-themes/notmyidea-cms'
+
 #~ THEME = '/home/rajz/install/pelican-themes/Just-Read'
 #~ THEME='/home/rajz/install/pelican-themes/pelican-bootstrap3'
 #~ THEME='/home/rajz/install/pelican-themes/built-texts'

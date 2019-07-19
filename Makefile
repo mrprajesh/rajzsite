@@ -8,7 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=10.6.3.10
+FTP_HOST=10.21.225.33
 FTP_USER=rajz
 FTP_TARGET_DIR=/phd/rajz/public_html
 
@@ -19,7 +19,7 @@ FTP_TARGET_DIR=/phd/rajz/public_html
 #~ SSH_TARGET_DIR=/phd/rajz/public_html
 
 # cse mrprajesh website
-SSH_HOST=10.21.225.1
+SSH_HOST=10.21.225.33
 SSH_PORT=22
 SSH_USER=mrprajesh
 SSH_TARGET_DIR=/home/mrprajesh/public_html
