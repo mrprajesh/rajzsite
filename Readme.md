@@ -34,7 +34,7 @@ This has two group dynamic pages sorted in chronological order.
 - Learning curve
 - News
 
-# Some Work arounds done
+# Some Workarounds done
 The about page is made a the index page. Using. 
 ```
 url: 
