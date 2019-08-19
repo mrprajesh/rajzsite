@@ -10,15 +10,12 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://www.cse.iitm.ac.in/~mrprajesh'
-#~ SITEURL = 'http://www.mrprajesh.co.in'
-#~ SITEURL = 'http://10.6.3.10/~rajz/'
-
-
-RELATIVE_URLS = False
+# If your site is available via HTTPS, make sure SITEURL begins with https://
+SITEURL = 'https://www.cse.iitm.ac.in/~mrprajesh'
+RELATIVE_URLS = True
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -26,3 +23,5 @@ DELETE_OUTPUT_DIRECTORY = True
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
+
+STATIC_CHECK_IF_MODIFIED = True

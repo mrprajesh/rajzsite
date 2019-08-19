@@ -8,13 +8,16 @@ SITEURL = ''
 
 PATH = 'content'
 
+DEFAULT_DATE_FORMAT = '%d-%b-%Y'
 TIMEZONE = 'Asia/Kolkata'
 
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+#FEED_ALL_ATOM = None
+#CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
@@ -28,26 +31,29 @@ PLUGINS = ["render_math",'i18n_subsites']
 
 # Blogroll
 LINKS = (
-		('My Personal Blog', 'http://jeshthink.blogspot.com/'),
-         ('My Tech Blog', 'http://mrprajesh.blogspot.com/'),
+		('Personal Blog', 'http://jeshthink.blogspot.com/'),
+         ('Tech Blog', 'http://mrprajesh.blogspot.com/'),
          ('Theoretical CS Lab', 'http://theory.cse.iitm.ac.in'),
          ('Unique visitors:  <img src="//c.statcounter.com/11617236/0/a2429d81/0/" alt="StatCounter" >', 'http://statcounter.com/'),
 ('Page hits:   <img src="//c.statcounter.com/11617242/0/19c44117/0/" alt="StatCounter" >', 'http://statcounter.com'),
+         (' Channel for School', 'https://www.youtube.com/channel/UC7AYCv3SJotZtyfNuT_UBqA/about'),
+         (' Channel for College', 'https://www.youtube.com/YCLAAcademy/about'),
         )
 
-
-#~ ('<img src="http://www.reliablecounter.com/count.php?page=cse.iitm.ac.in/~mrprajesh&digit=style/plain/6/&reloads=1" alt="www.reliablecounter.com" title="www.reliablecounter.com" border="0">', 'http://www.reliablecounter.com'),     
-        
-#<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=cse.iitm.ac.in/~mrprajesh&digit=style/plain/6/&reloads=1" alt="www.reliablecounter.com" title="www.reliablecounter.com" border="0"></a><br /><a href="http://www.reliablecounter.com/ar/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"> </a>
-
 # Social widget
-SOCIAL = (('Github', 'https://github.com/mrprajesh'),
-		  ('Google Profile', 'https://plus.google.com/u/0/+RajeshPandianM'),
+SOCIAL = (('GitHub', 'https://github.com/mrprajesh'),
           ('Twitter', 'https://twitter.com/mrprajesh'),
-          ('Facebook', 'https://facebook.com/mrprajesh'),)
+          ('Facebook', 'https://facebook.com/mrprajesh'),
+          ('Linkedin', 'https://www.linkedin.com/in/rajesh-pandian-muniasamy-524717a/'),
+          )
+
+TWITTER_USERNAME='mrprajesh'
+GITHUB_USERNAME='mrprajesh'
 
 DEFAULT_PAGINATION = 10
 
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'pdfs','csvs']
 
@@ -56,24 +62,11 @@ STATIC_PATHS = ['images', 'pdfs','csvs']
 #RELATIVE_URLS = True
 
 # ~ THEME = "notmyidea"
-THEME = '/home/rajz/install/pelican-themes/notmyidea-cms'
-
+THEME = '/home/rajz/tmp/notmyidea-cms-mine'
+#USE_FOLDER_AS_CATEGORY=True
 #~ THEME = '/home/rajz/install/pelican-themes/Just-Read'
 #~ THEME='/home/rajz/install/pelican-themes/pelican-bootstrap3'
 #~ THEME='/home/rajz/install/pelican-themes/built-texts'
 #~ THEME='/home/rajz/install/pelican-themes/attilight'
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-#MATH_JAX = {'color':'blue','align':'left'}
-
-#~ HEADER_BG_IMG = 'images/header.png'
-
-#~ AUTHORS_BIO = {
-  #~ "jd": {
-    #~ "fullname": "Rajesh Pandian M",
-    #~ "image": "http://www.cse.iitm.ac.in/~mrprajesh/oldWebsite/images/rajesh.jpg",
-    #~ "website": "http://www.cse.iitm.ac.in/~mrprajesh",
-    #~ "location": "Chennai. India",
-    #~ "bio": "I am Rajesh Pandian M"
-  #~ }
-#~ }

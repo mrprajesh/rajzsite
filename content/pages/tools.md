@@ -2,7 +2,7 @@ Title: Tools
 Date: 20.12.2017 15:15:38
 page-order: 4
  
-#Graph Projects
+#Graph Projects [outdated!]
 Dynamic Graph - A small step towards visualization
 	* Click to [launch][1]
 	* _Note:_ Runs on Java v1.7 or greater; In Linux this plugin may be needed "sudo apt-get install icedtea-plugin". 

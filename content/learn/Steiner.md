@@ -1,6 +1,8 @@
 Title: Steiner Tree - PACE 2018
 Date: 23.05.2018 13:03:28
 Category: Learning Curve
+Status: draft
+ 
  
 ## Problem Description
 - Input : Graph $G(V,E)$, $w: E \rightarrow \mathbb{N}$ and terminals $L \subseteq V$
