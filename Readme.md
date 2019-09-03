@@ -1,6 +1,14 @@
 # Main Webpage
 This is my CSE @ IIT Madras [homepage](http://www.cse.iitm.ac.in/~mrprajesh/) content generated using pelican. 
 
+## TODO
+- [ ] Can you add code highlighter
+	- [ ] with line numbers
+	- [ ] with terminal like code block
+- [x] How to create pandoc style hyperlinks/ id links/header id/anchor links 	
+- [ ] can I change Dark vs light on your theme?
+
+
 ## Usage
 Generate html webpage from the markdown(md) files.
 
