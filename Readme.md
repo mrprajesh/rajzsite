@@ -10,12 +10,14 @@ Runs the server. Open http://localhost:8000/ to see the rendering.
 
 ```make serve```
 
+or use
+``` make devserver ```
+
 Once the development is done. We are ready for deploying.
 
 ```
-$make publish
-$pelican content -s publishconf.py
-$make rsync_upload
+$ make publish
+$ make rsync_upload # or make dropbox_upload or copy htmls to gh-pages
 ```
 
 
