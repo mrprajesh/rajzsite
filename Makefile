@@ -95,7 +95,7 @@ dropbox_upload: publish
 	
 mrprajesh: publish
 	cp -r $(OUTPUTDIR)/* $(MRPSITE_DIR)
-	cd $(MRPSITE_DIR) && git add . && git commit -m "Auto-updated Gh-Pages" && git push origin master
+	cd $(MRPSITE_DIR) && git add . && git commit -m "$M" && git push origin master
 
 sample: 
 	echo 1 $1 

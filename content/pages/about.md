@@ -31,6 +31,10 @@ My [PGP][4] Key ID is 0xEA64BABE.
 If you wish to send me an encrypted email you are always welcome! :-) 
 
 
+My Github chart:
+
+<img src="http://ghchart.rshah.org/mrprajesh" alt="mrprajesh's Github chart" />
+
 [1]: http://www.cse.iitm.ac.in/
 [2]: http://www.iitm.ac.in/
 [3]: http://www.cse.iitm.ac.in/~swamy/
