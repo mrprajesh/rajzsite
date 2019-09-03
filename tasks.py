@@ -16,7 +16,7 @@ CONFIG = {
     'production': 'mrprajesh@10.21.225.12:22',
     'dest_path': '/home/mrprajesh/public_html',
     # Github Pages configuration
-    'github_pages_branch': 'gh-pages',
+    'github_pages_branch': 'master',
     'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
     # Port for `serve`
     'port': 8000,

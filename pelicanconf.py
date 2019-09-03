@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Rajesh Pandian M'
 SITENAME = u'Rajesh Pandian M'
-SITEURL = ''
+SITESUBTITLE= u''
+# ~ SITEURL = 'https://mrprajesh.co.in'
 
 PATH = 'content'
 
@@ -70,3 +71,16 @@ THEME = '/home/rajz/tmp/notmyidea-cms-mine'
 #~ THEME='/home/rajz/install/pelican-themes/attilight'
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.toc': {
+		'title': 'Contents',
+		'anchorlink': True,
+        },
+    },
+    'output_format': 'html5',
+}

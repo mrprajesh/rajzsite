@@ -5,7 +5,7 @@ url:
 save_as: index.html
 page-order: 1
 
-<img src="images/Rajz.jpg" alt="Picture of Rajesh" style="float:right;height: 100px;width: 100px;"/>
+<img src="images/Rajz.jpg" alt="Picture of Rajesh" style="float:right;height: 116px;width: 100px;"/>
 
 
 My name is Rajesh Pandian M. I am from Madurai, Tamil Nadu, India. 
