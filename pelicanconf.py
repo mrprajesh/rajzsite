@@ -37,15 +37,18 @@ LINKS = (
          ('Theoretical CS Lab', 'http://theory.cse.iitm.ac.in'),
          ('Unique visitors:  <img src="//c.statcounter.com/11617236/0/a2429d81/0/" alt="StatCounter" >', 'http://statcounter.com/'),
 ('Page hits:   <img src="//c.statcounter.com/11617242/0/19c44117/0/" alt="StatCounter" >', 'http://statcounter.com'),
-         (' Channel for School', 'https://www.youtube.com/channel/UC7AYCv3SJotZtyfNuT_UBqA/about'),
-         (' Channel for College', 'https://www.youtube.com/YCLAAcademy/about'),
+		  ('TeachForTN', 'https://yclaacademy.github.io'),
+         # ~ (' Channel for School', 'https://www.youtube.com/channel/UC7AYCv3SJotZtyfNuT_UBqA/about'),
+         # ~ (' Channel for College', 'https://www.youtube.com/YCLAAcademy/about'),
         )
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/mrprajesh'),
           ('Twitter', 'https://twitter.com/mrprajesh'),
-          ('Facebook', 'https://facebook.com/mrprajesh'),
+          ('DBLB', 'https://dblp.org/pid/313/1579.html'),
+          ('Google Scholar', 'https://scholar.google.com/citations?user=onuO9hYAAAAJ'),
           ('Linkedin', 'https://www.linkedin.com/in/rajesh-pandian-muniasamy-524717a/'),
+          ('Facebook', 'https://facebook.com/mrprajesh'),
           )
 
 TWITTER_USERNAME='mrprajesh'
@@ -63,7 +66,7 @@ STATIC_PATHS = ['images', 'pdfs','csvs']
 #RELATIVE_URLS = True
 
 # ~ THEME = "notmyidea"
-THEME = '/home/rajz/tmp/notmyidea-cms-mine'
+THEME = '/home/rajz/gitSites/notmyidea-cms-mine'
 #USE_FOLDER_AS_CATEGORY=True
 #~ THEME = '/home/rajz/install/pelican-themes/Just-Read'
 #~ THEME='/home/rajz/install/pelican-themes/pelican-bootstrap3'
@@ -74,7 +77,7 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 MARKDOWN = {
     'extension_configs': {
-        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.codehilite': {}, #'css_class': 'highlight'
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
         'markdown.extensions.toc': {

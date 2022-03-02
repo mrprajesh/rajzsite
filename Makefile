@@ -9,13 +9,13 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 # ranges from 1-15
-SSH_HOST=10.21.225.3
+SSH_HOST=10.21.225.80
 SSH_PORT=22
 SSH_USER=mrprajesh
 SSH_TARGET_DIR=/home/mrprajesh/public_html
 
 DROPBOX_DIR=~/Dropbox/Public/
-MRPSITE_DIR=~/tmp/mrprajesh.github.io/
+MRPSITE_DIR=~/gitSites/mrprajesh.github.io/
 
 GITHUB_PAGES_BRANCH=master
 
@@ -92,13 +92,13 @@ rsync_upload: publish
 
 dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
-	
+
 mrprajesh: publish
 	cp -r $(OUTPUTDIR)/* $(MRPSITE_DIR)
-	cd $(MRPSITE_DIR) && git add . && git commit -m "$M" && git push origin master
+	cd $(MRPSITE_DIR) && git add . && git commit -m "Auto updated!" && git push origin master #"$M"
 
-sample: 
-	echo 1 $1 
+sample:
+	echo 1 $1
 	echo 2 $2
 
 github: publish

@@ -1,11 +1,11 @@
 # Main Webpage
-This is my CSE @ IIT Madras [homepage](http://www.cse.iitm.ac.in/~mrprajesh/) content generated using pelican. 
+This is my CSE @ IIT Madras [homepage](http://www.cse.iitm.ac.in/~mrprajesh/) content generated using pelican.
 
 ## TODO
 - [ ] Can you add code highlighter
 	- [ ] with line numbers
 	- [ ] with terminal like code block
-- [x] How to create pandoc style hyperlinks/ id links/header id/anchor links 	
+- [x] How to create pandoc style hyperlinks/ id links/header id/anchor links
 - [ ] can I change Dark vs light on your theme?
 
 
@@ -25,7 +25,8 @@ Once the development is done. We are ready for deploying.
 
 ```
 $ make publish
-$ make rsync_upload # or make dropbox_upload or copy htmls to gh-pages
+$ make rsync_upload # to upload to cse domain /mrprajesh
+$ make mrprajesh    # to upload to mrprajesh.co.in
 ```
 
 
@@ -47,7 +48,7 @@ This has two group dynamic pages sorted in chronological order.
 # Some Workarounds done
 The about page is made as the index page. Using:
 ```
-url: 
+url:
 save_as: index.html
 ```
 The page order is enforced using page-order for pages.
