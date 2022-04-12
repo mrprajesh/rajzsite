@@ -20,7 +20,7 @@ Quite recently we are working on these problems:
 
 1. **Accelerating Computation of Steiner Trees on GPUs**
     - Rajesh Pandian M, Rupesh Nasre and N.S. Narayanaswamy.
-    - (Accepted) International Journal of Parallel Programming, 2021. [(PDF)][4] [(DOI)][5] //TODO [Slides][#] [Video][#]
+    - (Accepted) International Journal of Parallel Programming, 2021. [(PDF)][4] [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ)
 
 2. // More to follow.
 

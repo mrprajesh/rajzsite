@@ -9,7 +9,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 # ranges from 1-15
-SSH_HOST=10.21.225.80
+SSH_HOST=10.21.225.31
 SSH_PORT=22
 SSH_USER=mrprajesh
 SSH_TARGET_DIR=/home/mrprajesh/public_html
