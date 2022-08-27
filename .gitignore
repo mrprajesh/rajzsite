@@ -2,3 +2,4 @@
 *.htm
 output/*
 output/*.*
+__pycache__/

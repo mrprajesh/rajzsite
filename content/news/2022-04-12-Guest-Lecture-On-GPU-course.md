@@ -3,11 +3,12 @@ Date: 12-Apr-2022 16:00:41 +05:30
 Category: News
 
 [Rupesh][1] had invited me to deliver a Guest Lecture on his [course][2]
-I did my best with whatever time I have. Thanks Rupesh for the opportunity.
-12-Apr-2022. 12:01 to 12:50 IST.
+I did my best with whatever time I had. Thanks Rupesh for the opportunity.
+
 
 My lecture details
 
+- Time: 12-Apr-2022. 12:01 to 12:50 IST.
 - [Slides][3]
 - [Video][4]
 

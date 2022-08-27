@@ -27,7 +27,7 @@ AUTHOR_FEED_RSS = None
 PAGE_ORDER_BY = 'page-order'
 
 # It works only with the internet connection
-PLUGIN_PATHS = ['/home/rajz/install/pelican-plugins']
+PLUGIN_PATHS = ['/home/rajesh/install/pelican-plugins']
 PLUGINS = ["render_math",'i18n_subsites']
 
 # Blogroll
@@ -66,7 +66,7 @@ STATIC_PATHS = ['images', 'pdfs','csvs']
 #RELATIVE_URLS = True
 
 # ~ THEME = "notmyidea"
-THEME = '/home/rajz/gitSites/notmyidea-cms-mine'
+THEME = '/home/rajesh/gitSites/notmyidea-cms-mine'
 #USE_FOLDER_AS_CATEGORY=True
 #~ THEME = '/home/rajz/install/pelican-themes/Just-Read'
 #~ THEME='/home/rajz/install/pelican-themes/pelican-bootstrap3'

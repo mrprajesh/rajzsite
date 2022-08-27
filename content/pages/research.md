@@ -8,11 +8,11 @@ I am really fortunate to have my Ph.D. advisors as [N.S. Narayanaswamy][1] (also
 Both of them are wonderful professors/researchers I have ever met. From them, I have not just learnt doing research but also about good human values and other life+soft skills.
 
 
-Quite recently we are working on these problems:
+Quite recently, we have been working on these problems:
 
 - Accelerating algorithms (exact and approximate for NP problems) using GPU. // Current
 - Designing exact algorithm for NP-hard problems(Treewidth, Minimum fill-in, Steiner tree, Vertex Cover). // [PACE][2]
-- Solving Problems(such as Dominating set) on Grid.  // Visulisation Tool for Algorithmic solving
+- Solving Problems(such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving
 - Designing Dynamic Data Structures for Graph Problems // M.Tech
 
 
