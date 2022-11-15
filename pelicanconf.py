@@ -44,6 +44,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/mrprajesh'),
+          ('ORCHID', 'https://orcid.org/0000-0003-4702-4678'),
           ('Twitter', 'https://twitter.com/mrprajesh'),
           ('DBLB', 'https://dblp.org/pid/313/1579.html'),
           ('Google Scholar', 'https://scholar.google.com/citations?user=onuO9hYAAAAJ'),
