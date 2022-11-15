@@ -9,7 +9,7 @@ page-order: 1
 
 
 My name is Rajesh Pandian M.
-I am a Ph.D. Scholar at [Department of Computer Science & Engineering][1] @ [IIT Madras][2].
+I am a Ph.D. Scholar in [Department of Computer Science & Engineering][1] at [IIT Madras][2].
 I belong to [Theoretical Computer Science][5] Group/Lab fondly called TCS Lab.
 Since I work at the intersection of both theory and practice
 I am advised by [Prof.N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. So, I am also part of [PACE Lab.](https://pace.cse.iitm.ac.in/)
