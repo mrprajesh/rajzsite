@@ -20,8 +20,7 @@ git commit -m "$MSG - main"
 git push 
 
 # cp to mrprajesh.github
-#~ cp -r $OUTPUTDIR/* $GITHUB
-rsync -arvh $OUTPUTDIR/ $GITHUB --delete
+cp -r $OUTPUTDIR/* $GITHUB 
 cd $GITHUB && git add . && git commit -m "Auto updated $MSG! - site /" && git push  #"$M"
 cd -
 
