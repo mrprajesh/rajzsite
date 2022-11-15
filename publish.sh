@@ -16,12 +16,13 @@ make publish
 
 # commit srcs
 git add .
-git commit -m "$MSG - blog"
+git commit -m "$MSG - main"
 git push 
 
 # cp to mrprajesh.github
-cp -r $(OUTPUTDIR)/* $(GITHUB)
-cd $(GITHUB) && git add . && git commit -m "Auto updated $MSG!" && git push  #"$M"
+#~ cp -r $OUTPUTDIR/* $GITHUB
+rsync -arvh $OUTPUTDIR/ $GITHUB --delete
+cd $GITHUB && git add . && git commit -m "Auto updated $MSG! - site /" && git push  #"$M"
 cd -
 
 echo $TSTAMP - Done!
