@@ -10,17 +10,17 @@ Both of them are wonderful professors/researchers I have ever met. From them, I 
 
 Quite recently, we have been working on these problems:
 
-- Accelerating algorithms (Approximate for NP problems) using GPU. // Current
+- Accelerating algorithms (Approximate for NP-hard problems) using GPU. // Current
 - Designing exact algorithm for NP-hard problems(Treewidth, Minimum fill-in, Steiner tree, Vertex Cover). // [PACE][2]
 - Solving Problems(such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving
 - Designing Dynamic Data Structures for Graph Problems // M.Tech
 
 ## Thesis
-1. **PhD Thesis**
+1. **Doctoral Thesis**
     - Title (Tentative): NP-hard Problems meet GPUs.
-    - [PDF](#) [slides](#) [Video](#)  // TODO 
+    - [PDF](#) [slides](#) [Video](#)  // TODO. Later 
 2. **Master Thesis**
-    - Fully Dynamic Maximal Matching in 3-Uniform Hypergraphs
+    - Fully Dynamic Maximal Matching in 3-Uniform Hypergraphs.
     - [slides](#)  // TODO 
         
 ## Publications
@@ -39,6 +39,8 @@ Quite recently, we have been working on these problems:
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
     - **(Under review)** Journal of Parallel and Distributed Computing (JPDC).  
     - [PDF](#) [slides](#) [Video](#)  [Code](#) // Later after acceptance.
+
+4. // More to follow.
     
 [1]: http://www.cse.iitm.ac.in/~swamy/
 [2]: https://pacechallenge.org
