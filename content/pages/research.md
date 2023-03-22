@@ -22,8 +22,14 @@ Quite recently, we have been working on these problems:
     - Rajesh Pandian M, Rupesh Nasre and N.S. Narayanaswamy.
     - (Accepted) International Journal of Parallel Programming, 2021. [(PDF)][4] [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ)
 
-2. // More to follow.
+2. **Effective Parallelization of the Vehicle Routing Problem.**
+    - <u> Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
+    - **(Under review)** Genetic and Evolutionary Computation Conference (GECCO 2023).
 
+3.  **StarPlat: A Versatile DSL for Graph Analytics.**
+    - Journal of Parallel and Distributed Computing (JPDC).  
+    - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, Rajesh Pandian M, Rupesh Nasre.
+    
 [1]: http://www.cse.iitm.ac.in/~swamy/
 [2]: https://pacechallenge.org
 [3]: http://www.cse.iitm.ac.in/~rupesh/
