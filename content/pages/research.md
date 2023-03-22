@@ -27,15 +27,18 @@ Quite recently, we have been working on these problems:
 
 1. **Accelerating Computation of Steiner Trees on GPUs**
     - <u>Rajesh Pandian M</u>, Rupesh Nasre and N.S. Narayanaswamy.
-    - (Accepted) International Journal of Parallel Programming, 2021. [(PDF)][4] [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ)
+    - International Journal of Parallel Programming, Vol 50, pgs 152–185 (2022). 
+    - [(PDF)][4] [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) 
 
 2. **Effective Parallelization of the Vehicle Routing Problem.**
     - <u>Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
     - **(Under review)** Genetic and Evolutionary Computation Conference (GECCO 2023).
+    - [PDF](#) [slides](#) [Video](#)  [Code](#) // Later after acceptance.
 
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
-    - Journal of Parallel and Distributed Computing (JPDC).  
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
+    - **(Under review)** Journal of Parallel and Distributed Computing (JPDC).  
+    - [PDF](#) [slides](#) [Video](#)  [Code](#) // Later after acceptance.
     
 [1]: http://www.cse.iitm.ac.in/~swamy/
 [2]: https://pacechallenge.org
