@@ -9,25 +9,23 @@ page-order: 1
 
 
 My name is Rajesh Pandian M.
-I am a Ph.D. Scholar in [Department of Computer Science & Engineering][1] at [IIT Madras][2].
-I belong to [Theoretical Computer Science][5] Group/Lab fondly called TCS Lab.
+I am a Ph.D. Scholar in the [Department of Computer Science & Engineering][1] at [IIT Madras][2].
 Since I work at the intersection of both theory and practice
-I am advised by [Prof.N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. So, I am also part of [PACE Lab.](https://pace.cse.iitm.ac.in/)
+I am advised by [Prof.N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. So, I am part of two labs: [Theoretical Computer Science][5] Group/Lab (fondly called TCS Lab) and [PACE Lab.](https://pace.cse.iitm.ac.in/)
 
-I will always go after the impossible things (for others) and passionate (to me).
-I have completed my bacherlors at [Thiagarajar College of Engineering][7].
+I will always go after the impossible things (for others) and passionate things (for me).
+I have completed my bachelor's at [Thiagarajar College of Engineering][7].
 I did my masters after a few years of a stint as a software engineer in the industry.
-I have a great passion for GNU's Philosophy and Free & Open Source Software.
-My native is Madurai, Tamil Nadu, India.
+I have a great passion for GNU's Philosophy and Free & Open Source Software. My native is Madurai, Tamil Nadu, India.
 
-I am a <s>grey hat hacker </s> ..ssshh! ;-) .
-I wish to be a grey hat hacker.
+I am a <s>grey-hat hacker </s> ssshh! ;-).
+I wish to be a grey-hat hacker.
 I love programming, computers and gadgets.
 As a hobby, I sneak into websites by exploiting their weak spot and
 eavesdrop, then I'll get out without traces.
 Hmm, Tell me something difficult to do with the computer,
 I will show you a way to do it smarter and faster.
-Yeah! that's what I am in one line. ;-)
+Yeah! That's what I am in one line. ;-)
 
 My [PGP][4] Key ID is 0xEA64BABE.
 If you wish to send me an encrypted email, you are always welcome! :-)
