@@ -10,7 +10,7 @@ Both of them are wonderful professors/researchers I have ever met. From them, I 
 
 Quite recently, we have been working on these problems:
 
-- Accelerating algorithms (Approximate for NP-hard problems) using GPU. // Current
+- Accelerating algorithms (Approximate algorithms for NP-hard problems) using GPU. // Current
 - Designing exact algorithm for NP-hard problems(Treewidth, Minimum fill-in, Steiner tree, Vertex Cover). // [PACE][2]
 - Solving Problems(such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving
 - Designing Dynamic Data Structures for Graph Problems // M.Tech
@@ -38,7 +38,7 @@ Quite recently, we have been working on these problems:
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
     - **(Under review)** Journal of Parallel and Distributed Computing (JPDC).  
-    - [PDF](#) [slides](#) [Video](#)  [Code](#) // Later after acceptance.
+    - [PDF](#) [slides](#) [Video](#) [Code](#) // Later after acceptance.
 
 4. // More to follow.
     
