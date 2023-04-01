@@ -32,8 +32,8 @@ Quite recently, we have been working on these problems:
 
 2. **Effective Parallelization of the Vehicle Routing Problem.**
     - <u>Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
-    - **(Under review)** Genetic and Evolutionary Computation Conference (GECCO 2023).
-    - [PDF](#) [slides](#) [Video](#)  [Code](#) // Later after acceptance.
+    - **Accepted** Genetic and Evolutionary Computation Conference (GECCO 2023).
+    - [PDF](6) [(DOI)][7] [slides](#) [Video](#) [Code](#) // Soon
 
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
@@ -47,5 +47,7 @@ Quite recently, we have been working on these problems:
 [3]: http://www.cse.iitm.ac.in/~rupesh/
 [4]: https://rdcu.be/cCa9K
 [5]: https://doi.org/10.1007/s10766-021-00723-0
+[6]: https://doi.org/10.1145/3583131.3590458
+[7]: https://doi.org/10.1145/3583131.3590458
 
 
