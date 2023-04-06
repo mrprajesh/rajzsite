@@ -28,7 +28,7 @@ Quite recently, we have been working on these problems:
 1. **Accelerating Computation of Steiner Trees on GPUs**
     - <u>Rajesh Pandian M</u>, Rupesh Nasre and N.S. Narayanaswamy.
     - International Journal of Parallel Programming, Vol 50, pgs 152–185 (2022). 
-    - [(PDF)][{static}/pdfs/steiner-ijpp22-preprint.pdf] [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) 
+    - [(PDF)]({static}/pdfs/steiner-ijpp22-preprint.pdf) [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) 
 
 2. **Effective Parallelization of the Vehicle Routing Problem.**
     - <u>Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
