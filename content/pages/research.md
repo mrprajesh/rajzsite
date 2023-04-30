@@ -18,10 +18,10 @@ Quite recently, we have been working on these problems:
 ## Thesis
 1. **Doctoral Thesis**
     - Title (Tentative): NP-hard Problems meet GPUs.
-    - [PDF](#) [slides](#) [Video](#)  // TODO. Later 
+<!--    - [PDF](#) [slides](#) [Video](#)  // TODO. Later  -->
 2. **Master Thesis**
     - Fully Dynamic Maximal Matching in 3-Uniform Hypergraphs.
-    - [slides](#)  // TODO 
+<!--- [slides](#)  // TODO                                 -->
         
 ## Publications
 
@@ -33,12 +33,12 @@ Quite recently, we have been working on these problems:
 2. **Effective Parallelization of the Vehicle Routing Problem.**
     - <u>Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
     - **Accepted** Genetic and Evolutionary Computation Conference (GECCO 2023).
-    - [PDF](6) [(DOI)][7] [slides](#) [Video](#) [Code](#) // Soon
+    - [PDF](6) [(DOI)][7] [slides](#) [Video](#) [Code](https://github.com/mrprajesh/parMDS) // Soon
 
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
     - **(Under review)** Journal of Parallel and Distributed Computing (JPDC).  
-    - [PDF](#) [slides](#) [Video](#) [Code](#) // Later after acceptance.
+    - [PDF](#) [slides](#) [Video](#) [Code](https://github.com/nibeditabh/StarPlat) // Later after acceptance.
 
 4. // More to follow.
     
