@@ -38,7 +38,7 @@ Quite recently, we have been working on these problems:
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
     - **(Under review)** Journal of Parallel and Distributed Computing (JPDC).  
-    -  [Code](https://github.com/nibeditabh/StarPlat) // Later after acceptance. [PDF](#) [slides](#) [Video](#)
+    - [Code](https://github.com/nibeditabh/StarPlat) // Later after acceptance. [PDF](#) [slides](#) [Video](#)
 
 4. // More to follow.
     
