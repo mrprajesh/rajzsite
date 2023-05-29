@@ -33,12 +33,12 @@ Quite recently, we have been working on these problems:
 2. **Effective Parallelization of the Vehicle Routing Problem.**
     - <u>Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
     - **Accepted** Genetic and Evolutionary Computation Conference (GECCO 2023).
-    - [PDF]({static}/pdfs/CVRP_v4.pdf) [(DOI)][7] [slides](#) [Video](#) [Code](https://github.com/mrprajesh/parMDS) // Soon
+    - [PDF]({static}/pdfs/CVRP_v4.pdf) [Code](https://github.com/mrprajesh/parMDS) // Soon!  [(DOI)][7] [slides](#) [Video](#) 
 
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
     - **(Under review)** Journal of Parallel and Distributed Computing (JPDC).  
-    - [PDF](#) [slides](#) [Video](#) [Code](https://github.com/nibeditabh/StarPlat) // Later after acceptance.
+    -  [Code](https://github.com/nibeditabh/StarPlat) // Later after acceptance. [PDF](#) [slides](#) [Video](#)
 
 4. // More to follow.
     
