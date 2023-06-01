@@ -28,17 +28,17 @@ Quite recently, we have been working on these problems:
 1. **Accelerating Computation of Steiner Trees on GPUs**
     - <u>Rajesh Pandian M</u>, Rupesh Nasre and N.S. Narayanaswamy.
     - International Journal of Parallel Programming, Vol 50, pgs 152–185 (2022). 
-    - [(PDF)]({static}/pdfs/steiner-ijpp22-preprint.pdf) [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) 
+    - [(Preprint)]({static}/pdfs/steiner-ijpp22-preprint.pdf) [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) 
 
 2. **Effective Parallelization of the Vehicle Routing Problem.**
     - <u>Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
     - **(Accepted)** Genetic and Evolutionary Computation Conference (GECCO 2023).
-    - [PDF]({static}/pdfs/CVRP_v4.pdf) [Code](https://github.com/mrprajesh/parMDS) // Soon!  [(DOI)][7] [slides](#) [Video](#) 
+    - [(Preprint)]({static}/pdfs/CVRP_v4.pdf) [Code](https://github.com/mrprajesh/parMDS) // Soon!  [(DOI)][7] [slides](#) [Video](#) 
 
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
     - **(Under review)** Journal of Parallel and Distributed Computing (JPDC).  
-    - [Code](https://github.com/nibeditabh/StarPlat) // Later after acceptance. [PDF](#) [slides](#) [Video](#)
+    - [Code](https://github.com/nibeditabh/StarPlat) [(arXiv PDF)](https://doi.org/10.48550/arXiv.2305.03317) // Later after acceptance.  [slides](#) [Video](#)
 
 4. // More to follow.
     
