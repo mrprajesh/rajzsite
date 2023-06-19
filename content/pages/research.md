@@ -2,7 +2,9 @@ Title: Research
 Date: 20.12.2017 15:15:38
 page-order: 3
 
-My **area of research** includes High-Performance Computing (HPC), Parallel Computing, Graph Algorithms/Analytics. More specifically, Accelerating the performance of Graph Algorithms on GPUs.
+My **area of research** includes Parallel/GPU Computing, High-Performance Computing (HPC) and Graph Analytics. 
+
+I get excited about every aspect of Parallelization of Graph Algorithms on GPUs.
 
 I am really fortunate to have my Ph.D. advisors as [N.S. Narayanaswamy][1] (also my M.Tech. project's advisor) and [Rupesh Nasre][3].
 Both of them are wonderful professors/researchers I have ever met. From them, I have not just learnt doing research but also about good human values and other life+soft skills.
@@ -11,9 +13,9 @@ Both of them are wonderful professors/researchers I have ever met. From them, I 
 Quite recently, we have been working on these problems:
 
 - Accelerating algorithms (Approximate algorithms for NP-hard problems) using GPU. // Current
-- Designing exact algorithm for NP-hard problems(Treewidth, Minimum fill-in, Steiner tree, Vertex Cover). // [PACE][2]
+- Designing exact algorithm for NP-hard problems(Treewidth, Minimum fill-in and Steiner tree). // [PACE][2]
 - Solving Problems(such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving
-- Designing Dynamic Data Structures for Graph Problems // M.Tech
+- Designing Dynamic Data Structures for Graph Problems // During Masters
 
 ## Thesis
 1. **Doctoral Thesis**

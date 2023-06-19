@@ -36,7 +36,9 @@ Link to my [CV](https://www.dropbox.com/s/7u5brnm1viwxlqm/Rajesh_Resume.pdf).
 
 ## my Github chart
 
+<!---
 <img src="https://ghchart.rshah.org/mrprajesh" alt="mrprajesh's Github chart" />
+-->
 
 [1]: https://www.cse.iitm.ac.in/
 [2]: https://www.iitm.ac.in/
