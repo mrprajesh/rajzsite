@@ -32,7 +32,7 @@ If you wish to send me an encrypted email, you are always welcome! :-)
 
 ## CV
 
-Link to my [CV](https://www.dropbox.com/s/7u5brnm1viwxlqm/Rajesh_Resume.pdf).
+Link to my [CV](https://drive.google.com/file/d/19L9AtlVd-0lKtHJiz4Z5nsAKapREoJMw/view?usp=sharing).
 
 ## my Github chart
 
