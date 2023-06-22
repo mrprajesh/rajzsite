@@ -13,7 +13,7 @@ Both of them are wonderful professors/researchers I have ever met. From them, I 
 Quite recently, we have been working on these problems:
 
 - Accelerating algorithms (Approximate algorithms for NP-hard problems) using GPU. // Current
-- Designing exact algorithm for NP-hard problems(Treewidth, Minimum fill-in and Steiner tree). // [PACE][2]
+- Designing exact algorithm for NP-hard problems (Treewidth, Minimum fill-in and Steiner tree). // [PACE][2]
 - Solving Problems(such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving
 - Designing Dynamic Data Structures for Graph Problems // During Masters
 
