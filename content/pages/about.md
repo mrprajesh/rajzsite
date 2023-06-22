@@ -5,7 +5,7 @@ url:
 save_as: index.html
 page-order: 1
 
-<img src="images/Rajz.jpg" alt="Picture of Rajesh" style="float:right;height: 116px;width: 100px;"/>
+<a =href="images/Rajesh.jpg" > <img src="images/Rajz.jpg" alt="Picture of Rajesh" style="float:right;"/> </a>
 
 
 My name is Rajesh Pandian M.
