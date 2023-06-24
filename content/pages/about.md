@@ -17,8 +17,8 @@ I have completed my bachelor's at [Thiagarajar College of Engineering][7].
 I did my masters after a few years of a stint as a software engineer in the industry.
 I have a great passion for GNU's Philosophy and Free & Open Source Software. My native is Madurai, Tamil Nadu, India.
 
-I am a <s>grey-hat hacker </s> ssshh! ;-).
-I wish to be a grey-hat hacker.
+<!-- I am a <s>grey-hat hacker </s> ssshh! ;-). I wish to be a grey-hat hacker. -->
+
 I love programming, computers and gadgets.
 As a hobby, I sneak into websites by exploiting their weak spot and
 eavesdrop, then I'll get out without traces.
