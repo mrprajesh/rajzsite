@@ -12,6 +12,13 @@ I am a final year PhD/Research Student in the [Department of Computer Science & 
 I am advised by [Prof.N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. 
 My research areas are GPU/Parallel Computing, High-performance Computing and Graph Analytics.
 I get excited about every aspect of parallelizing graph algorithms/problems on GPUs. 
+As an open-source advocate, all our source codes are public to encourage the reproducibility of our experiments.
+
+
+As I have an innate tendency to tinker and fix
+things, it adds more value to our time-bound projects to quickly resolve infrastructure issues and
+focus on research. I always document my technical endeavours on [my blog](https://mrprajesh.co.in/blog) for later reference,
+which is helpful for other members of our group and me.
 
 <!--
 Since I work at the intersection of both theory and practice, 
