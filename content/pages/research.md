@@ -15,7 +15,7 @@ Quite recently, we have been working on these problems:
 
 - Accelerating algorithms (approximate algorithms for NP-hard problems) using GPU. // Current
 - Designing exact algorithm for NP-hard problems (Treewidth, Minimum fill-in and Steiner tree). // Done in [PACE][2] 
-- Solving Problems(such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving. Done.
+- Solving Problems (such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving. Done.
 - Designing Dynamic Data Structures for Graph Problems // During Masters. Done.
 
   
@@ -23,18 +23,18 @@ Quite recently, we have been working on these problems:
 
 1. **Accelerating Computation of Steiner Trees on GPUs**
     - <u>Rajesh Pandian M</u>, Rupesh Nasre and N.S. Narayanaswamy.
-    - International Journal of Parallel Programming, Vol 50, pgs 152–185 (2022). 
-    - [(Preprint)]({static}/pdfs/steiner-ijpp22-preprint.pdf) [(DOI)][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) 
+    - International Journal of Parallel Programming **(IJPP)**, Vol 50, pgs 152–185 (2022). 
+    - [(Preprint)]({static}/pdfs/steiner-ijpp22-preprint.pdf) [DOI][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) 
 
 2. **Effective Parallelization of the Vehicle Routing Problem.**
     - <u>Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
-    - **(Accepted)** Genetic and Evolutionary Computation Conference (GECCO 2023).
+    - **(Accepted)** Genetic and Evolutionary Computation Conference **(GECCO)** 2023.
     - [(Preprint)]({static}/pdfs/CVRP_v4.pdf) [Code](https://github.com/mrprajesh/parMDS) // TODO [(DOI)][7] [slides](#) [Video](#) Soon! 
 
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
-    - **(Under review)** Journal of Parallel and Distributed Computing (JPDC).  
-    - [arXiv PDF](https://doi.org/10.48550/arXiv.2305.03317) [Code](https://github.com/nibeditabh/StarPlat)  [India Patented](https://drive.google.com/file/d/1BbzKyd0c8WGmbX1doh6gysPc3vuUlwU4/view?usp=sharing) // TODO [slides](#) [Video](#) Later after acceptance.  
+    - **(Under review)** Journal of Parallel and Distributed Computing **(JPDC)**.  
+    - [(arXiv PDF)](https://doi.org/10.48550/arXiv.2305.03317) [Code](https://github.com/nibeditabh/StarPlat)  [India Patented](https://drive.google.com/file/d/1BbzKyd0c8WGmbX1doh6gysPc3vuUlwU4/view?usp=sharing) // TODO [slides](#) [Video](#) Later after acceptance.  
 
 4. // More to follow.
     
