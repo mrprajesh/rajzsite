@@ -49,7 +49,7 @@ Yeah! That's what I am in one line. ;-)
 My [PGP][4] Key ID is 0xEA64BABE.
 If you wish to send me an encrypted email, you are always welcome! :-)
 
-<mark> Actively seeking **Post-Doctoral Research** positions (in Parallel/GPU Computing or in HPC) starting October 2023 or after.</mark>   <img src="images/new.gif" style="height: 1%;width: 5%;"/>
+<mark> Actively seeking **Post-Doctoral Research** (or internship) positions (in Parallel/GPU Computing or in HPC) starting October 2023 or after.</mark>   <img src="images/new.gif" style="height: 1%;width: 5%;"/>
 
 
 ## CV
