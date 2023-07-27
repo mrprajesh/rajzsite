@@ -3,7 +3,7 @@ Date: 19.12.2018 18:27:10 IST
 Authors: Rajesh Pandian M
 page-order: 9
 
-Most of the time, I hang around Twitter. Wherever there is Wi-Fi, I am online on my Gmail. 
+Most of the time, I hang around Twitter (tech updates!). Wherever there is Wi-Fi, I am online on my Gmail. 
 
 ## Email
 
