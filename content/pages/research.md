@@ -5,8 +5,8 @@ page-order: 3
 I get excited about every aspect of Parallelization of Graph Algorithms on GPUs.
 My **area of research** includes 
 
-- Parallel and High-Performance Computing (HPC) 
 - GPU Computing
+- Parallel and High-Performance Computing (HPC) 
 - Graph Analytics
 
 
