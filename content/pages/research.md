@@ -2,21 +2,17 @@ Title: Research
 Date: 20.12.2017 15:15:38
 page-order: 3
 
-My **area of research** includes Parallel/GPU Computing, High-Performance Computing (HPC) and Graph Analytics. 
-
 I get excited about every aspect of Parallelization of Graph Algorithms on GPUs.
+My **area of research** includes 
 
-I am really fortunate to have my Ph.D. advisors as [N.S. Narayanaswamy][1] (also my M.Tech. project's advisor) and [Rupesh Nasre][3].
+- Parallel and High-Performance Computing (HPC) 
+- GPU Computing
+- Graph Analytics
 
-<!--- Both of them are wonderful professors/researchers I have ever met. From them, I have not just learnt doing research but also about good human values and other life+soft skills. -->
 
+<!--- I am really fortunate to have my Ph.D. advisors as [N.S. Narayanaswamy][1] (also my M.Tech. project's advisor) and [Rupesh Nasre][3].
 
-Quite recently, we have been working on these problems:
-
-- Accelerating algorithms (approximate algorithms for NP-hard problems) using GPU. // Current
-- Designing exact algorithm for NP-hard problems (Treewidth, Minimum fill-in and Steiner tree). // Done in [PACE][2] 
-- Solving Problems (such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving. Done.
-- Designing Dynamic Data Structures for Graph Problems // During Masters. Done.
+ Both of them are wonderful professors/researchers I have ever met. From them, I have not just learnt doing research but also about good human values and other life+soft skills. -->
 
   
 ## Publications
@@ -24,12 +20,13 @@ Quite recently, we have been working on these problems:
 1. **Accelerating Computation of Steiner Trees on GPUs**
     - <u>Rajesh Pandian M</u>, Rupesh Nasre and N.S. Narayanaswamy.
     - International Journal of Parallel Programming **(IJPP)**, Vol 50, pgs 152–185 (2022). 
-    - [(Preprint)]({static}/pdfs/steiner-ijpp22-preprint.pdf) [DOI][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) 
+    - [(Preprint)]({static}/pdfs/steiner-ijpp22-preprint.pdf) [DOI][5] [Slides]({static}/pdfs/sem2-v4.pdf) [Video](https://youtu.be/BIecDhPdWaQ) [Code](https://doi.org/10.5281/zenodo.4477087) [BibTeX](https://dblp.org/rec/journals/ijpp/MuniasamyNN22.html?view=bibtex)
 
 2. **Effective Parallelization of the Vehicle Routing Problem.**
     - <u>Rajesh Pandian M </u>, Somesh Singh, Rupesh Nasre and N.S. Narayanaswamy.
-    - **[(Accepted)](https://gecco-2023.sigevo.org/Accepted-Papers#&sort[wptrackerlist23-1]=0-0&filter[wptrackerlist23-1]=-Parallel-)** Genetic and Evolutionary Computation Conference **(GECCO)**, pgs. 1036–1044 (2023).
-    - [(Preprint)]({static}/pdfs/CVRP_v4.pdf) [DOI][7] [Slides]({static}/pdfs/gecco-cvrp-v3.pdf)  [Video](http://www.youtube.com/watch?v=IWgqRR-UO6U)   [Code](https://github.com/mrprajesh/parMDS) 
+    -  Proceedings of the Genetic and Evolutionary Computation Conference **(GECCO'23)**, pgs. 1036–1044 (2023).
+    -  [DOI][6] [Slides]({static}/pdfs/gecco-cvrp-v3.pdf)  [Video](http://www.youtube.com/watch?v=IWgqRR-UO6U)   [Code](https://github.com/mrprajesh/parMDS) [BibTeX](https://dblp.org/rec/conf/gecco/Muniasamy0NN23.html?view=bibtex) <!--- [(Preprint)]({static}/pdfs/CVRP_v4.pdf) --->
+
 
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
@@ -49,11 +46,20 @@ Quite recently, we have been working on these problems:
 
 ## Thesis
 1. **Doctoral Thesis**
-    - Title (Tentative): NP-hard Problems meet GPUs.
+    - Title (Tentative): NP-hard Problems meet Parallelization.
 <!--    - [PDF](#) [slides](#) [Video](#)  // TODO. Later  -->
 2. **Master Thesis**
     - Fully Dynamic Maximal Matching in 3-Uniform Hypergraphs.
 <!--- [slides](#)  // TODO   -->
+
+
+Some of the problems we have/had worked on:
+
+- Accelerating algorithms (approximate algorithms for NP-hard problems) using GPU. // PhD Thesis
+- Designing exact algorithm for NP-hard problems (Treewidth, Minimum fill-in and Steiner tree). // Done in [PACE][2] 
+- Solving Problems (such as Dominating set) on Grid.  // Visualisation Tool for Algorithmic solving. Done.
+- Designing Dynamic Data Structures for Graph Problems // During Masters. Done.
+
 
 
 [1]: http://www.cse.iitm.ac.in/~swamy/
