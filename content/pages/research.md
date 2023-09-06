@@ -3,7 +3,7 @@ Date: 20.12.2017 15:15:38
 page-order: 3
 
 I get excited about every aspect of Parallelization of Graph Algorithms on GPUs.
-My **area of research** includes 
+My **research area** includes 
 
 - GPU Computing
 - Parallel and High-Performance Computing (HPC) 
