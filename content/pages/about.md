@@ -7,16 +7,14 @@ page-order: 1
 
 <a href="images/Rajesh.jpg" > <img src="images/Rajz.jpg" alt="Picture of Rajesh" style="float:right;height: 105px;width: 100px;"/> </a>
 
-My name is Rajesh Pandian M.
-I am a final year PhD/Research Student in the [Department of Computer Science & Engineering][1] at [IIT Madras][2].
-I am advised by [Prof.N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. 
-My research areas are GPU/Parallel Computing, High-performance Computing and Graph Analytics.
+Rajesh a final year PhD/Research Student in the [Department of Computer Science & Engineering][1] at [IIT Madras][2].
+I am advised by [Prof. N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. 
+My broad research area is parallelization which includes are GPU Computing, High-performance Computing and Graph Analytics.
 I get excited about every aspect of parallelizing graph algorithms/problems on GPUs. 
 As an open-source advocate, all our source codes are public to encourage the reproducibility of our experiments.
 
 
-As I have an innate tendency to tinker and fix
-things, it adds more value to our time-bound projects to quickly resolve infrastructure issues and
+As I have an innate tendency to tinker and fix things, it adds more value to our time-bound projects to quickly resolve infrastructure issues and
 focus on research. I always document my technical endeavours on [my blog](https://mrprajesh.co.in/blog) for later reference,
 which is helpful for other members of our group and me.
 
