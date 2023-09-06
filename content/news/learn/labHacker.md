@@ -2,13 +2,16 @@ Title: Handling Lab Course
 Date: 23.01.2018 20:15:51 
 Category: Learning Curve
 Modified: 14.08.2019 13:50:02
+Status: draft
+
+
 
 ## First Lab
 These are things we must be doing from different stake holders.
 
 Instructor:
 
-- We should know the strength of the class and give them how the lab is going be conducted.
+- We should know the strength of the class and give them info on how the lab is going be conducted.
 - System logins ready
 - Create a sheet that had list of assignments and list of TA per assignments.
 

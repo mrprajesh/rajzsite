@@ -2,6 +2,8 @@ Title: Git and Github
 Date: 16-Sep-2018 12:20:58
 Category: Learning Curve
 Modified: 16.09.2019 13:32:02 
+Status: draft
+
 
 Git is a cool versioning manager and Github is awesome. You could
 manage large open/close software projects. 

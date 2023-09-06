@@ -36,8 +36,8 @@ LINKS = (
          ('My Personal Blog', 'http://jeshthink.blogspot.com/'),
          ('My Old Tech Blog', 'http://mrprajesh.blogspot.com/'),
          ('Theoretical CS Lab', 'http://theory.cse.iitm.ac.in'),
-         ('Unique visitors:  <img src="//c.statcounter.com/11617236/0/a2429d81/0/" alt="StatCounter" >', 'http://statcounter.com/'),
-('Page hits:   <img src="//c.statcounter.com/11617242/0/19c44117/0/" alt="StatCounter" >', 'http://statcounter.com'),
+    # ~ ('Unique visitors:  <img src="https://c.statcounter.com/11617236/0/a2429d81/0/" alt="StatCounter" >', 'http://statcounter.com/'),
+    # ~ ('Page hits:   <img src="https://c.statcounter.com/11617242/0/19c44117/0/" alt="StatCounter" >', 'http://statcounter.com'),
 		  ('TeachForTN', 'https://yclaacademy.github.io'),
          # ~ (' Channel for School', 'https://www.youtube.com/channel/UC7AYCv3SJotZtyfNuT_UBqA/about'),
          # ~ (' Channel for College', 'https://www.youtube.com/YCLAAcademy/about'),
@@ -45,12 +45,12 @@ LINKS = (
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/mrprajesh'),
-          ('ORCHID', 'https://orcid.org/0000-0003-4702-4678'),
+          # ~ ('ORCHID', 'https://orcid.org/0000-0003-4702-4678'),
           ('Twitter', 'https://twitter.com/mrprajesh'),
           ('DBLB', 'https://dblp.org/pid/313/1579.html'),
           ('Google Scholar', 'https://scholar.google.com/citations?user=onuO9hYAAAAJ'),
           ('Linkedin', 'https://www.linkedin.com/in/rajesh-pandian-muniasamy-524717a/'),
-          ('Facebook', 'https://facebook.com/mrprajesh'),
+          # ~ ('Facebook', 'https://facebook.com/mrprajesh'),
           )
 
 TWITTER_USERNAME='mrprajesh'

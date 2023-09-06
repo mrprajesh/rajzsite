@@ -2,6 +2,8 @@ Title: Linux
 Date: 16-Sep-2018 12:20:58
 Category: Learning Curve
 Modified: 16-Sep-2019 12:20:58
+Status: draft
+
 
 This is where I am logging everything I know about Linux. There are so
 many distros out there. Whatever here works on debian based system like

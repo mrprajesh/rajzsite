@@ -2,6 +2,8 @@ Title: Learning to Teach CS1100/CS1111
 Date: 18-Sep-2018 12:28:12
 Category: Learning Curve
 Modified: 18-Sep-2019 12:28:12
+Status: draft
+
 
 ## Terminal
 

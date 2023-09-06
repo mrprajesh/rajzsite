@@ -2,6 +2,7 @@ Title: GPU Stats!
 Date: 05.31.2018 15:49:38
 Category: Learning Curve
 Status: draft
+
 Hello ! 
 This is for displaying stats of my GPU implementations! 
 There are several implementations for SSP and Steiner tree problem[coming soon!].
