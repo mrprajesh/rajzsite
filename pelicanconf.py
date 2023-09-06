@@ -33,9 +33,9 @@ PLUGINS = ["render_math",'i18n_subsites']
 # Blogroll
 LINKS = (
          ('MyTech Encounters', 'https://mrprajesh.co.in/blog'),
-         ('My Personal Blog', 'http://jeshthink.blogspot.com/'),
-         ('My Old Tech Blog', 'http://mrprajesh.blogspot.com/'),
-         ('Theoretical CS Lab', 'http://theory.cse.iitm.ac.in'),
+         # ~ ('My Personal Blog', 'http://jeshthink.blogspot.com/'),
+         # ~ ('My Old Tech Blog', 'http://mrprajesh.blogspot.com/'),
+         # ~ ('Theoretical CS Lab', 'http://theory.cse.iitm.ac.in'),
     # ~ ('Unique visitors:  <img src="https://c.statcounter.com/11617236/0/a2429d81/0/" alt="StatCounter" >', 'http://statcounter.com/'),
     # ~ ('Page hits:   <img src="https://c.statcounter.com/11617242/0/19c44117/0/" alt="StatCounter" >', 'http://statcounter.com'),
 		  ('TeachForTN', 'https://yclaacademy.github.io'),
