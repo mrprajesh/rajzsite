@@ -7,7 +7,7 @@ page-order: 1
 
 <a href="images/Rajesh.jpg" > <img src="images/Rajz.jpg" alt="Picture of Rajesh" style="float:right;height: 105px;width: 100px;"/> </a>
 
-Rajesh a final year PhD/Research Student in the [Department of Computer Science & Engineering][1] at [IIT Madras][2].
+Rajesh is a final year PhD/Research Student in the [Department of Computer Science & Engineering][1] at [IIT Madras][2].
 I am advised by [Prof. N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. 
 My broad research area is parallelization which includes are GPU Computing, High-performance Computing and Graph Analytics.
 I get excited about every aspect of parallelizing graph algorithms/problems on GPUs. 
@@ -52,7 +52,7 @@ If you wish to send me an encrypted email, you are always welcome! :-)
 
 ## CV
 
-Link to my [CV](https://drive.google.com/file/d/19L9AtlVd-0lKtHJiz4Z5nsAKapREoJMw/view?usp=sharing).
+Link to my [CV](https://drive.google.com/file/d/19L9AtlVd-0lKtHJiz4Z5nsAKapREoJMw/view?usp=sharing) _updated:15-June-2023_.
 
 <!---
 ## my Github chart
