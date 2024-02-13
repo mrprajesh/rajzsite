@@ -6,13 +6,13 @@ I get excited about every aspect of Parallelization of Graph Algorithms on GPUs.
 My **research area** includes 
 
 - GPU Computing
-- Parallel and High-Performance Computing (HPC) 
 - Graph Analytics
+- Parallel and High-Performance Computing (HPC) 
 
 
 <!--- I am really fortunate to have my Ph.D. advisors as [N.S. Narayanaswamy][1] (also my M.Tech. project's advisor) and [Rupesh Nasre][3].
 
- Both of them are wonderful professors/researchers I have ever met. From them, I have not just learnt doing research but also about good human values and other life+soft skills. -->
+Both of them are wonderful professors/researchers I have ever met. From them, I have not just learnt doing research but also about good human values and other life+soft skills. -->
 
   
 ## Publications
