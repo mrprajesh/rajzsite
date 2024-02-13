@@ -9,7 +9,7 @@ page-order: 1
 
 Rajesh is a final year PhD/Research Student in the [Department of Computer Science & Engineering][1] at [IIT Madras][2].
 I am advised by [Prof. N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. 
-My broad research area is parallelization which includes GPU Computing, High-performance Computing and Graph Analytics.
+My broad research area is parallelization which includes GPU Computing, Graph Analytics and High-performance Computing (HPC).
 I get excited about every aspect of parallelizing graph algorithms/problems on GPUs. 
 As an open-source advocate, all our source codes are public to encourage the reproducibility of our experiments.
 
