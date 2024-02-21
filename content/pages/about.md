@@ -47,7 +47,7 @@ Yeah! That's what I am in one line. ;-)
 My [PGP][4] Key ID is 0xEA64BABE.
 If you wish to send me an encrypted email, you are always welcome! :-)
 
-<mark> I am actively looking for **Post-Doctoral Research** (or Research internship) positions in **Parallel/GPU Computing or HPC**. </mark>   <img src="images/new.gif" style="height: 1%;width: 5%;"/>
+<mark> On job market--industry/academia. I am actively looking for ** Researcher / PostDoc** positions in **GPU/Parallel Computing or HPC**. </mark>   <img src="images/new.gif" style="height: 1%;width: 5%;"/>
 
 
 ## CV

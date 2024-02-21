@@ -10,6 +10,9 @@ page-order: 2
 * 09-10th STD - St.Joseph Matriculation Hr. Sec. School, Madurai, Tamil Nadu.
 * 05-08th STD - Vani Vidhalaya  Matriculation Hr. Sec. School, Vellore, Tamil Nadu.
 
+
+Some of my credited courses at IIT Madras
+
 **PhD Courses.**
 
 - GPU Programming

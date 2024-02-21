@@ -5,7 +5,7 @@ page-order: 9
 
 <!-- Most of the time, I hang around Twitter (tech updates!). Wherever there is Wi-Fi, I am online on my Gmail. --> 
 
-Need contact me? Please feel free to email me.
+Please feel free to email me.
 
 ## Email
 
@@ -19,8 +19,12 @@ Need contact me? Please feel free to email me.
 - _Hint:_ Try the above with shift key UN-PRESSED on a QWERTY keyboard ;-)
 - Mobile : plus-(nine-one)-(nine-four-eight-six-three)-(five-nine-one-seven-zero)
 
+<!--
+
 ## Post mail
 
 - SSB 318, TCS Lab, CSE Department,
 - IIT Madras, Chennai - 600036
 - Tamil Nadu, India.
+
+--> 
