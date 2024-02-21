@@ -9,3 +9,18 @@ page-order: 2
 * 11-12th STD - S.B.O.A Matriculation Hr. Sec. School, Madurai, Tamil Nadu.
 * 09-10th STD - St.Joseph Matriculation Hr. Sec. School, Madurai, Tamil Nadu.
 * 05-08th STD - Vani Vidhalaya  Matriculation Hr. Sec. School, Vellore, Tamil Nadu.
+
+**PhD Courses.**
+
+- GPU Programming
+- Combinational Optimization
+- Topics in Design & Analysis of Algorithms
+- Logic and Combinatorics for Computer Science
+
+**Masters Courses.**
+
+- Advanced Programming Laboratory
+- Advanced-Data Structures and Algorithms
+- Mathematical Concepts for Computer Science
+- Computer Architecture
+- Advanced Algorithms

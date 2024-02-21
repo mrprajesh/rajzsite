@@ -15,8 +15,8 @@ As an open-source advocate, all our source codes are public to encourage the rep
 
 
 As I have an innate tendency to tinker and fix things, it adds more value to our time-bound projects to quickly resolve infrastructure issues and
-focus on research. I always document my technical endeavours on [my blog](https://mrprajesh.co.in/blog) for later reference,
-which is helpful for other members of our group and me.
+focus on research. I always document my technical encounters on [my blog](https://mrprajesh.co.in/blog) for later reference,
+which is/was helpful for other members of our group and me.
 
 <!--
 Since I work at the intersection of both theory and practice, 
