@@ -52,14 +52,11 @@ If you wish to send me an encrypted email, you are always welcome! :-)
 
 ## CV
 
-Link to my [CV](https://drive.google.com/file/d/19L9AtlVd-0lKtHJiz4Z5nsAKapREoJMw/view?usp=sharing) _updated:13-Feb-2023_.
+Link to my [CV](https://drive.google.com/file/d/19L9AtlVd-0lKtHJiz4Z5nsAKapREoJMw/view?usp=sharing) _updated:25-Feb-2023_.
 
-<!---
-## my Github chart
-
-
+## My GitHub chart
 <img src="https://ghchart.rshah.org/mrprajesh" alt="mrprajesh's Github chart" />
--->
+
 
 [1]: https://www.cse.iitm.ac.in/
 [2]: https://www.iitm.ac.in/
