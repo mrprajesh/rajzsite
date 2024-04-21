@@ -5,7 +5,7 @@ page-order: 9
 
 <!-- Most of the time, I hang around Twitter (tech updates!). Wherever there is Wi-Fi, I am online on my Gmail. --> 
 
-Please feel free to email me.
+Please feel free to email me for any collaboration/Talks.
 
 ## Email
 
