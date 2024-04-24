@@ -14,8 +14,8 @@ I get excited about every aspect of parallelizing graph algorithms/problems on G
 As an open-source advocate, all our source codes are public to encourage the reproducibility of our experiments.
 
 
-As I have an innate tendency to tinker and fix things, it adds more value to our time-bound projects to quickly resolve infrastructure issues and
-focus on research. I always document my technical encounters on [my blog](https://mrprajesh.co.in/blog) for later reference,
+As I have an innate tendency to tinker and fix things, it adds more value to our time-bound projects to quickly resolve HPC/infrastructure issues and
+focus on our research. I always document my technical encounters on [my blog](https://mrprajesh.co.in/blog) for later reference,
 which is/was helpful for other members of our group and me.
 
 <!--
