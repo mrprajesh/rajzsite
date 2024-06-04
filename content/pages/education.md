@@ -15,14 +15,14 @@ Some of my credited courses at IIT Madras
 
 **PhD Courses.**
 
-- GPU Programming
+- GPU Programming 🏆
 - Combinational Optimization
 - Topics in Design & Analysis of Algorithms
 - Logic and Combinatorics for Computer Science
 
 **Masters Courses.**
 
-- Advanced Programming Laboratory
+- Advanced Programming Laboratory 🏆
 - Advanced-Data Structures and Algorithms
 - Mathematical Concepts for Computer Science
 - Computer Architecture
