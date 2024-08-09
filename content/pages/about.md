@@ -8,7 +8,7 @@ page-order: 1
 <a href="images/Rajesh.jpg" > <img src="images/Rajz.avif" alt="Picture of Rajesh" style="float:right;height: 110px;width: 100px;"/> </a>
 
 Rajesh has a Masters + PhD from the [Department of Computer Science & Engineering][1] at [IIT Madras][2].
-Rajesh's works at Qualcomm on GPU Compiler Performance-based role, during the day time, and carries out research/teaching during his free time.
+Rajesh's works on GPU Performance/Compiler-based role, during the day time, and (wish to) carry out research/teaching during his free time.
 Rajesh's PhD advisors are [Prof. N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. 
 My broad research area is **parallelization** which includes <mark>GPU Computing</mark>, Graph Analytics and High-performance Computing (HPC).
 Rajesh gets excited about every aspect of parallelizing graph algorithms/problems on GPUs. 
