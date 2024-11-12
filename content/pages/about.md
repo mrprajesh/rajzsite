@@ -7,12 +7,16 @@ page-order: 1
 
 <a href="images/Rajesh.jpg" > <img src="images/Rajz.avif" alt="Picture of Rajesh" style="float:right;height: 110px;width: 100px;"/> </a>
 
-Rajesh has a Masters + PhD from the [Department of Computer Science & Engineering][1] at [IIT Madras][2].
-Rajesh's works on GPU Performance/Compiler-based role, during the day time, and (wish to) carry out research/teaching during his free time.
-Rajesh's PhD advisors are [Prof. N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. 
-My broad research area is **parallelization** which includes <mark>GPU Computing</mark>, Graph Analytics and High-performance Computing (HPC).
-Rajesh gets excited about every aspect of parallelizing graph algorithms/problems on GPUs. 
-As an open-source advocate, all our source codes are public to encourage the reproducibility of our experiments.
+Rajesh graduated with Master's and PhD from the [Department of Computer Science & Engineering][1] at [IIT Madras][2] and a BTech from [Thiagarajar College of Engineering, Madurai][7].
+His work focuses on improving GPU's Compiler Performance during the day time, and wish to carry out research/teaching during his free time.
+His broad research area is **parallelization** which includes <mark>GPU Computing</mark>, Graph Analytics and High-performance Computing (HPC).
+Rajesh is passionate about every aspect of parallelizing graph algorithms/problems on GPUs. 
+He has co-authored three international publications (including a Core A conference) and holds one Indian patent. 
+Rajesh regularly serves as a Program Committee member in the Artifact Evaluation track of top conferences (such as CGO, PPoPP and SC) and subreviewer for HiPC.
+He has received outstanding teaching assistant (STAR TA) award **thrice** at IIT Madras, second runner-up **twice** in 2008 and 2009 in IBM’s the Great
+Mind Challenge (TGMC), a prestigious National-level Contest and secured a top 10th place in [PACE 2018][8], and participated in [DIMACS 2021][9].
+
+As an open-source advocate, all our publications' source codes are public to encourage the reproducibility of our experiments.
 
 
 As I have an innate tendency to tinker and fix things, it adds more value to our time-bound projects to quickly resolve HPC/infrastructure issues and
@@ -20,6 +24,7 @@ focus on our research. I always document my technical encounters on [my blog](ht
 which is/was helpful for other members of our group and me.
 
 <!--
+Rajesh's PhD advisors are [Prof. N.S.Narayanaswamy][3] and [Prof. Rupesh Nasre][6]. 
 Since I work at the intersection of both theory and practice, 
 
 So, I am part of two labs: [Theoretical Computer Science][5] Group/Lab (fondly called as TCS Lab) and [PACE Lab.](https://pace.cse.iitm.ac.in/)
@@ -68,3 +73,5 @@ Link to my [CV](https://drive.google.com/file/d/19L9AtlVd-0lKtHJiz4Z5nsAKapREoJM
 [5]: https://theory.cse.iitm.ac.in/
 [6]: https://www.cse.iitm.ac.in/~rupesh/
 [7]: http://www.tce.edu/
+[8]: https://pacechallenge.org/2018
+[9]: https://dmac.rutgers.edu/programs/challenge/vrp
