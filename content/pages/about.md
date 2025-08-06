@@ -7,8 +7,8 @@ page-order: 1
 
 <a href="images/Rajesh.jpg" > <img src="images/Rajz.avif" alt="Picture of Rajesh" style="float:right;height: 110px;width: 100px;"/> </a>
 
-Rajesh graduated with Master's and PhD from the [Department of Computer Science & Engineering][1] at [IIT Madras][2] and a BTech from [Thiagarajar College of Engineering, Madurai][7].
-His work focuses on improving GPU's Compiler Performance during the day time, and wish to carry out research/teaching during his free time.
+Rajesh works in GPU Compiler Performance Team at Qualcomm. Rajesh graduated with Master's and PhD from the [Department of Computer Science & Engineering][1] at [IIT Madras][2] and a BTech from [Thiagarajar College of Engineering, Madurai][7].<!--
+His work focuses on improving GPU's Compiler Performance during the day time, and wish to carry out research/teaching during his free time. -->
 His broad research area is **parallelization** which includes <mark>GPU Computing</mark>, Graph Analytics and High-performance Computing (HPC).
 Rajesh is passionate about every aspect of parallelizing graph algorithms/problems on GPUs. 
 He has co-authored three international publications (including a Core A conference) and holds one Indian patent. 
@@ -57,10 +57,11 @@ If you wish to send me an encrypted email, you are always welcome! :-)
 <mark> On job market--industry/academia. I am actively looking for **Researcher/PostDoc** positions in **GPU/Parallel Computing or HPC**. </mark>   <img src="images/new.gif" style="height: 1%;width: 5%;"/>
 -->
 
-
+<!--
 ## My GitHub chart
-<img src="https://ghchart.rshah.org/mrprajesh" alt="mrprajesh's Github chart" />
 
+<img src="https://ghchart.rshah.org/mrprajesh" alt="mrprajesh's Github chart" />
+-->
 ## CV
 
 Link to my [CV](https://drive.google.com/file/d/19L9AtlVd-0lKtHJiz4Z5nsAKapREoJMw/view?usp=sharing) _(updated: 20-Apr-2024)_.
