@@ -35,19 +35,28 @@ Both of them are wonderful professors/researchers I have ever met. From them, I 
 
 3.  **StarPlat: A Versatile DSL for Graph Analytics.**
     - Nibedita Behera , Ashwina Kumar, Ebenezer Rajadurai T, Sai Nitish, <u>Rajesh Pandian M</u>, Rupesh Nasre.
-    - **(Under review)** Journal of Parallel and Distributed Computing **(JPDC)**.  
-    - [(arXiv PDF)](https://doi.org/10.48550/arXiv.2305.03317) [Code](https://github.com/nibeditabh/StarPlat)  [India Patented](https://drive.google.com/file/d/1BbzKyd0c8WGmbX1doh6gysPc3vuUlwU4/view?usp=sharing) // TODO [slides](#) [Video](#) Later after acceptance.  
+    - Journal of Parallel and Distributed Computing **(JPDC)**. Volume 194, Article 104967, **Dec 2024**
+    - [DOI][10] [(arXiv PDF)](https://doi.org/10.48550/arXiv.2305.03317) [Code](https://github.com/nibeditabh/StarPlat)  [India Patented](https://drive.google.com/file/d/1BbzKyd0c8WGmbX1doh6gysPc3vuUlwU4/view?usp=sharing) <!--// TODO [slides](#) [Video](#) Later after acceptance.   -->
     <details> <summary>  Abstract </summary>
      Graphs model several real-world phenomena. With the growth of unstructured and semi-structured data, parallelization of graph algorithms is inevitable. Unfortunately, due to inherent irregularity of computation, memory access, and communication, graph algorithms are traditionally challenging to parallelize. To tame this challenge, several libraries, frameworks, and domain-specific languages (DSLs) have been proposed to reduce the parallel programming burden of the users, who are often domain experts. However, existing frameworks to model graph algorithms typically target a single architecture. In this paper, we present a graph DSL, named StarPlat, that allows programmers to specify graph algorithms in a high-level format, but generates code for three different backends from the same algorithmic specification. In particular, the DSL compiler generates OpenMP for multi-core, MPI for distributed, and CUDA for many-core GPUs. Since these three are completely different parallel programming paradigms, binding them together under the same language is challenging. We share our experience with the language design. Central to our compiler is an intermediate representation which allows a common representation of the high-level program, from which individual backend code generations begin. We demonstrate the expressiveness of StarPlat by specifying four graph algorithms: betweenness centrality computation, page rank computation, single-source shortest paths, and triangle counting. We illustrate the effectiveness of our approach by comparing the performance of the generated codes with that obtained with hand-crafted library codes. We find that the generated code is competitive to library-based codes in many cases. More importantly, we show the feasibility to generate efficient codes for different target architectures from the same algorithmic specification of graph algorithms.
     </details>
     
-4. **Code Generation for a Variety of Accelerators for a Graph DSL**
+4. **Backend Code Generation for Graph DSLs Targeting Diverse Accelerator Platforms**
     - Ashwina Kumar, M. Venkata Krishna, Prasanna Bartakke, Rahul Kumar, <u>Rajesh Pandian M</u>, Nibedita Behera, Rupesh Nasre.
-    - [(Manuscript/arXiv PDF)](https://doi.org/10.48550/arXiv.2401.02472) [Code](https://github.com/ashwinktpu/StarPlat)
+    - European Conference on Parallel and Distributed Processing **(Euro-Par 2026)**, pgs. 227 - 240.
+    - [DOI][9] [(arXiv)](https://doi.org/10.48550/arXiv.2401.02472) [Code](https://github.com/ashwinktpu/StarPlat)
     <details> <summary>  Abstract </summary>
-     Sparse graphs are ubiquitous in real and virtual worlds. With the phenomenal growth in semi-structured and unstructured data, sizes of the underlying graphs have witnessed a rapid growth over the years. Analyzing such large structures necessitates parallel processing, which is challenged by the intrinsic irregularity of sparse computation, memory access, and communication. It would be ideal if programmers and domain-experts get to focus only on the sequential computation and a compiler takes care of auto-generating the parallel code. On the other side, there is a variety in the number of target hardware devices, and achieving optimal performance often demands coding in specific languages or frameworks. Our goal in this work is to focus on a graph DSL which allows the domain-experts to write almost-sequential code, and generate parallel code for different accelerators from the same algorithmic specification. In particular, we illustrate code generation from the StarPlat graph DSL for NVIDIA, AMD, and Intel GPUs using CUDA, OpenCL, SYCL, and OpenACC programming languages. Using a suite of ten large graphs and four popular algorithms, we present the efficacy of StarPlat's versatile code generator. 
+     Sparse graphs are ubiquitous in real and virtual worlds. With the phenomenal growth in semi-structured and unstructured data, sizes of the underlying graphs have witnessed a rapid growth over the years. Analyzing such large structures necessitates parallel processing, which is challenged by the intrinsic irregularity of sparse computation, memory access, and communication. It would be ideal if programmers and domain-experts get to focus only on the sequential computation and a compiler takes care of auto-generating the parallel code. On the other side, there is a variety in the number of target hardware devices, and achieving optimal performance often demands coding in specific languages or frameworks. Our goal in this work is to focus on a graph DSL which allows the domain-experts to write almost-sequential code, and generate parallel code for different accelerators from the same algorithmic specification. In particular, we illustrate code generation from the StarPlat graph DSL for NVIDIA, AMD, and Intel GPUs using CUDA, OpenCL, SYCL, HIP, and OpenACC programming languages. Using a suite of ten large representative graphs and four popular algorithms, we present the efficacy of StarPlat’s versatile code generator.
     </details>
-
+    
+5. **BP-MDS: Million-Scale Approximate CVRP in Minutes via Parallel Divide-and-Conquer.**
+    - Chekkala Sandeep Reddy, Lakshya Rani P, Somesh Singh, <u>Rajesh Pandian M</u>, Rupesh Nasre.
+    - International Conference on Parallel Processing **(ICPP '26)**, pgs. 877 - 887. 2026.
+    - [DOI][8] [Slides](#)  [Wiki Website](https://codecraftsmansandeep.github.io/BP-MDS/)   [Code](https://github.com/CodeCraftsmanSandeep/BP-MDS) 
+    <details> <summary> Abstract </summary>
+     The Capacitated Vehicle Routing Problem (CVRP) is a well-known NP-hard problem with wide applications in logistics and transportation. Given the combinatorial nature of the problem, a diverse set of heuristics has been proposed in the literature to obtain approximate solutions to CVRP. Prior research has largely focused on small- and medium-sized instances, having up to a few thousand customers. With growing instance sizes and problem complexity in logistics and transportation, there is a pressing need to design scalable techniques for CVRP. The current state-of-the-art CVRP heuristics struggle to scale to large problem instances, taking prohibitively long to arrive at a reasonable solution and also having a massive memory footprint. We introduce BP-MDS, a parallel divide-and-conquer framework for approximate CVRP that targets large-scale (million-customer) instances while achieving low optimality gaps. BP-MDS decomposes the problem into smaller subproblems that are processed concurrently, exhibiting empirically near-linear scalability with respect to input size and strong scaling across threads. Experimental results show that BP-MDS achieves 20 × –60 × speedups over ParMDS and up to 100 × (single-threaded) and 2370 × (multi-threaded) speedups over HGS-CVRP. BP-MDS solves CVRP instances with up to 5 million customers in 8 minutes.
+    </details>
+         
 // More to follow.
     
 
@@ -60,11 +69,12 @@ Both of them are wonderful professors/researchers I have ever met. From them, I 
     - [(Certificate PDF)](https://drive.google.com/file/d/1BbzKyd0c8WGmbX1doh6gysPc3vuUlwU4/view?usp=sharing)
 
 ## Thesis
+
 1. **Doctoral Thesis**
-    - Title (Tentative): NP-hard Problems meet Parallelization.
+    - **Title:** NP-hard Problems meet Parallelization.
 <!--    - [PDF](#) [slides](#) [Video](#)  // TODO. Later  -->
 2. **Master Thesis**
-    - Fully Dynamic Maximal Matching in 3-Uniform Hypergraphs.
+    - **Title:** Fully Dynamic Maximal Matching in 3-Uniform Hypergraphs.
 <!--- [slides](#)  // TODO   -->
 
 
@@ -84,7 +94,9 @@ Some of the problems we have/had worked on:
 [5]: https://doi.org/10.1007/s10766-021-00723-0
 [6]: https://doi.org/10.1145/3583131.3590458
 [7]: https://dl.acm.org/doi/10.1145/3583131.3590458
-
+[8]: https://doi.org/10.1145/3832810.3832887
+[9]: https://doi.org/10.1007/978-3-032-35248-4_16
+[10]: https://doi.org/10.1016/j.jpdc.2024.104967
 
 
 > **(Disclaimer)** This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.

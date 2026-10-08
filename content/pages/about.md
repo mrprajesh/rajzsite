@@ -11,7 +11,7 @@ Rajesh works in GPU Compiler Performance Team at Qualcomm. Rajesh graduated with
 His work focuses on improving GPU's Compiler Performance during the day time, and wish to carry out research/teaching during his free time. -->
 His broad research area is **parallelization** which includes <mark>GPU Computing</mark>, Graph Analytics and High-performance Computing (HPC).
 Rajesh is passionate about every aspect of parallelizing graph algorithms/problems on GPUs. 
-He has co-authored three international publications (including a Core A conference) and holds one Indian patent. 
+He has co-authored five international publications (including a Core A conference and a journal) and holds one Indian patent. 
 Rajesh regularly serves as a Program Committee member in the Artifact Evaluation track of top conferences (such as CGO, PPoPP and SC) and subreviewer for HiPC.
 He has received outstanding teaching assistant (STAR TA) award **thrice** at IIT Madras, second runner-up **twice** in 2008 and 2009 in IBM’s the Great
 Mind Challenge (TGMC), a prestigious National-level Contest and secured a top 10th place in [PACE 2018][8], and participated in [DIMACS 2021][9].
